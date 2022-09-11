@@ -18,7 +18,8 @@ img{
 
 a{
     display: block;
-    background-color: darkred;
+    background-color: rgb(196, 12, 12);
+    color: white;
     padding: 20px;
     text-align: center;
     font-weight: bolder;
